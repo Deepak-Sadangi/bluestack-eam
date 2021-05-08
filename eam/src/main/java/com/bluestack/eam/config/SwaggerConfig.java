@@ -1,4 +1,4 @@
-package com.blustack.eam.config;
+package com.bluestack.eam.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
